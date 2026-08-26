@@ -1,4 +1,4 @@
-# hey, i'm R3nz 👋
+# Yoo! im R3nz!
 
 <div align="center">
   <a href="https://github.com/aplx-renz-sudo">
@@ -10,7 +10,7 @@
 
 ## 🎯 about me
 
-indie dev shipping **[Aplx](https://github.com/Korentic/Aplx)** — a terminal-based AI assistant written in pure Python. first-year student in Bangalore. obsessed with clean architecture, AI/ML tooling, and not settling for mid code.
+indie dev shipping **[Aplx](https://github.com/Korentic/Aplx)** — a terminal-based AI assistant written in pure Python. .
 
 when im not coding, im probably gaming or memeing on the internet 🎮
 
@@ -19,7 +19,7 @@ when im not coding, im probably gaming or memeing on the internet 🎮
 ## 🚀 what i'm building
 
 ### **[Aplx](https://github.com/Korentic/Aplx)** 
-A multi-platform AI assistant (CLI, Web, Desktop) written from scratch in Python. think of it as your personal JARVIS but actually useful.
+A multi-platform AI assistant (CLI, Web, Desktop(this one upcoming lmao)) written from scratch in Python. think of it as your personal JARVIS but actually useful.
 
 - **Terminal-first** design philosophy
 - **Pure Python** — no bullshit, just the goods
@@ -68,11 +68,12 @@ GitHub Copilot, Gemini (for boilerplate), Claude (for thinking), VS Code, Cursor
 
 ---
 
-## 📊 github stats
+## 📊 github activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aplx-renz-sudo&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00d9ff&icon_color=00d9ff&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aplx-renz-sudo&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00d9ff&langs_count=6" />
+  <a href="https://github.com/aplx-renz-sudo">
+    <img src="https://streak-stats.demolab.com?user=aplx-renz-sudo&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=C9D1D9" />
+  </a>
 </div>
 
 ---
