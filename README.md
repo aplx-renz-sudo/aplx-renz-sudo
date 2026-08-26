@@ -28,6 +28,8 @@ A multi-platform AI assistant (CLI, Web, Desktop(this one upcoming lmao)) writte
 
 **status:** actively shipping features 🚢
 
+<img src="https://github.com/aplx-renz-sudo/aplx-renz-sudo/blob/main/Screenshot_2026-08-26_09-08-54.png"/>
+
 ---
 
 ## 💻 tech stack & skills
