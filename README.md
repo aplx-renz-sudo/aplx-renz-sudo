@@ -4,6 +4,112 @@
 **aplx-renz-sudo/aplx-renz-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+# hey, i'm R3nz 👋
+
+<div align="center">
+  <a href="https://github.com/R3nz">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=building+aplx+(the+ai+assistant);pure+python+terminal+chaos;architecture+%3E+boilerplate" alt="Typing SVG" />
+  </a>
+</div>
+
+---
+
+## 🎯 about me
+
+indie dev shipping **[Aplx](https://github.com/R3nz/aplx)** — a terminal-based AI assistant written in pure Python. first-year student in Bangalore. obsessed with clean architecture, AI/ML tooling, and not settling for mid code.
+
+when im not coding, im probably gaming or memeing on the internet 🎮
+
+---
+
+## 🚀 what i'm building
+
+### **[Aplx](https://github.com/R3nz/aplx)** 
+A multi-platform AI assistant (CLI, Web, Desktop) written from scratch in Python. think of it as your personal JARVIS but actually useful.
+
+- **Terminal-first** design philosophy
+- **Pure Python** — no bullshit, just the goods
+- **Extensible architecture** — plugins/integrations coming soon
+- **Privacy-focused** — your data, your rules
+
+**status:** actively shipping features 🚢
+
+---
+
+## 💻 tech stack & skills
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-3.10+-3776ab?logo=python&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/TypeScript-5.0+-3178c6?logo=typescript&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-18+-61dafb?logo=react&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/FastAPI-0.100+-009688?logo=fastapi&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PostgreSQL-15+-336791?logo=postgresql&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Docker-20+-2496ed?logo=docker&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+### **current focus:**
+- 🤖 LLM integrations & prompt engineering
+- 🏗️ System architecture & design patterns
+- ⚡ Performance optimization
+- 🧪 Testing & reliability
+
+### **tools i fw:**
+GitHub Copilot, Gemini (for boilerplate), Claude (for thinking), VS Code, Cursor
+
+---
+
+## 📊 github stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=R3nz&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00d9ff&icon_color=00d9ff&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3nz&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00d9ff&langs_count=6" />
+</div>
+
+---
+
+## 🎮 gaming/culture refs i vibe with
+
+- speedrunning communities (the grind is real)
+- open-source scene
+- ai research papers (arxiv rabbit holes at 3am 👀)
+- internet lore & meme culture
+- competitive programming (sometimes)
+
+---
+
+## 🔗 let's connect
+
+- **GitHub:** [@R3nz](https://github.com/R3nz)
+- **Twitter/X:** [@R3nz](https://twitter.com/R3nz) (if applicable)
+- **Email:** ayush@aplx.dev (or your actual email)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=R3nz&color=00d9ff&style=flat-square" />
+</div>
+
+<div align="center">
+  
+  **built with **☕ + 🎧 + zero sleep**
+  
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
