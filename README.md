@@ -1,13 +1,7 @@
-## Hi there 👋
-
-<!--
-**aplx-renz-sudo/aplx-renz-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # hey, i'm R3nz 👋
 
 <div align="center">
-  <a href="https://github.com/R3nz">
+  <a href="https://github.com/aplx-renz-sudo">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=building+aplx+(the+ai+assistant);pure+python+terminal+chaos;architecture+%3E+boilerplate" alt="Typing SVG" />
   </a>
 </div>
@@ -16,7 +10,7 @@ Here are some ideas to get you started:
 
 ## 🎯 about me
 
-indie dev shipping **[Aplx](https://github.com/R3nz/aplx)** — a terminal-based AI assistant written in pure Python. first-year student in Bangalore. obsessed with clean architecture, AI/ML tooling, and not settling for mid code.
+indie dev shipping **[Aplx](https://github.com/Korentic/Aplx)** — a terminal-based AI assistant written in pure Python. first-year student in Bangalore. obsessed with clean architecture, AI/ML tooling, and not settling for mid code.
 
 when im not coding, im probably gaming or memeing on the internet 🎮
 
@@ -24,7 +18,7 @@ when im not coding, im probably gaming or memeing on the internet 🎮
 
 ## 🚀 what i'm building
 
-### **[Aplx](https://github.com/R3nz/aplx)** 
+### **[Aplx](https://github.com/Korentic/Aplx)** 
 A multi-platform AI assistant (CLI, Web, Desktop) written from scratch in Python. think of it as your personal JARVIS but actually useful.
 
 - **Terminal-first** design philosophy
@@ -77,8 +71,8 @@ GitHub Copilot, Gemini (for boilerplate), Claude (for thinking), VS Code, Cursor
 ## 📊 github stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=R3nz&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00d9ff&icon_color=00d9ff&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3nz&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00d9ff&langs_count=6" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aplx-renz-sudo&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00d9ff&icon_color=00d9ff&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aplx-renz-sudo&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00d9ff&langs_count=6" />
 </div>
 
 ---
@@ -95,14 +89,13 @@ GitHub Copilot, Gemini (for boilerplate), Claude (for thinking), VS Code, Cursor
 
 ## 🔗 let's connect
 
-- **GitHub:** [@R3nz](https://github.com/R3nz)
-- **Twitter/X:** [@R3nz](https://twitter.com/R3nz) (if applicable)
-- **Email:** ayush@aplx.dev (or your actual email)
+- **GitHub:** [@aplx-renz-sudo](https://github.com/aplx-renz-sudo)
+- **Instagram:** [@r3nz0r](https://instagram.com/r3nz0r)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=R3nz&color=00d9ff&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=aplx-renz-sudo&color=00d9ff&style=flat-square" />
 </div>
 
 <div align="center">
@@ -110,13 +103,3 @@ GitHub Copilot, Gemini (for boilerplate), Claude (for thinking), VS Code, Cursor
   **built with **☕ + 🎧 + zero sleep**
   
 </div>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
