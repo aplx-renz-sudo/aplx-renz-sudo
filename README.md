@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/aplx-renz-sudo">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=building+aplx+(the+ai+assistant);pure+python+terminal+chaos;architecture+%3E+boilerplate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=building+aplx+(the+ai+assistant);Moving to webapps!;architecture+%3E+boilerplate" alt="Typing SVG" />
   </a>
 </div>
 
