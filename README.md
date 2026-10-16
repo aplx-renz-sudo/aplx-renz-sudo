@@ -10,7 +10,7 @@
 
 ## 🎯 about me
 
-indie dev shipping **[Aplx](https://github.com/Korentic/Aplx)** — a terminal-based AI assistant written in pure Python. .
+indie dev shipping **[VileDocx](https://github.com/Korentic/Docx)** — a terminal-based AI assistant written in pure Python. .
 
 when im not coding, im probably gaming or memeing on the internet 🎮
 
@@ -18,7 +18,7 @@ when im not coding, im probably gaming or memeing on the internet 🎮
 
 ## 🚀 what i'm building
 
-### **[Aplx](https://github.com/Korentic/Aplx)** 
+### **[Docx](https://github.com/aplx-renz-sudo/Docx-Website)** 
 A multi-platform AI assistant (CLI, Web, Desktop(this one upcoming lmao)) written from scratch in Python. think of it as your personal JARVIS but actually useful.
 
 - **Terminal-first** design philosophy
